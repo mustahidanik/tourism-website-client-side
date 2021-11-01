@@ -1,70 +1,16 @@
-Admiric Tour & Travels
+Admiric Tourist Site
+live link: https://tourism-website-6938c.web.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Tourism is distinguished from exploration in that tourists follow a “beaten path,” benefit from established systems of provision, and, as befits pleasure-seekers, are generally insulated from difficulty, danger, and embarrassment. Tourism, however, overlaps with other activities, interests, and processes, including, for example, pilgrimage. This gives rise to shared categories, such as “business tourism,” “sports tourism,” and “medical tourism” (international travel undertaken for the purpose of receiving medical care).
 
-## Available Scripts
+The origins of tourism
+By the early 21st century, international tourism had become one of the world’s most important economic activities, and its impact was becoming increasingly apparent from the Arctic to Antarctica. The history of tourism is therefore of great interest and importance. That history begins long before the coinage of the word tourist at the end of the 18th century. In the Western tradition, organized travel with supporting infrastructure, sightseeing, and an emphasis on essential destinations and experiences can be found in ancient Greece and Rome, which can lay claim to the origins of both “heritage tourism” (aimed at the celebration and appreciation of historic sites of recognized cultural importance) and beach resorts. The Seven Wonders of the World became tourist sites for Greeks and Romans.
 
-In the project directory, you can run:
+Pilgrimage offers similar antecedents, bringing Eastern civilizations into play. Its religious goals coexist with defined routes, commercial hospitality, and an admixture of curiosity, adventure, and enjoyment among the motives of the participants. Pilgrimage to the earliest Buddhist sites began more than 2,000 years ago, although it is hard to define a transition from the makeshift privations of small groups of monks to recognizably tourist practices. Pilgrimage to Mecca is of similar antiquity. The tourist status of the hajj is problematic given the number of casualties that—even in the 21st century—continued to be suffered on the journey through the desert. The thermal spa as a tourist destination—regardless of the pilgrimage associations with the site as a holy well or sacred spring—is not necessarily a European invention, despite deriving its English-language label from Spa, an early resort in what is now Belgium. The oldest Japanese onsen (hot springs) were catering to bathers from at least the 6th century. Tourism has been a global phenomenon from its origins.
 
-### `npm start`
+Modern tourism is an increasingly intensive, commercially organized, business-oriented set of activities whose roots can be found in the industrial and postindustrial West. The aristocratic grand tour of cultural sites in France, Germany, and especially Italy—including those associated with Classical Roman tourism—had its roots in the 16th century. It grew rapidly, however, expanding its geographical range to embrace Alpine scenery during the second half of the 18th century, in the intervals between European wars. (If truth is historically the first casualty of war, tourism is the second, although it may subsequently incorporate pilgrimages to graves and battlefield sites and even, by the late 20th century, to concentration camps.) As part of the grand tour’s expansion, its exclusivity was undermined as the expanding commercial, professional, and industrial middle ranks joined the landowning and political classes in aspiring to gain access to this rite of passage for their sons. By the early 19th century, European journeys for health, leisure, and culture became common practice among the middle classes, and paths to the acquisition of cultural capital (that array of knowledge, experience, and polish that was necessary to mix in polite society) were smoothed by guidebooks, primers, the development of art and souvenir markets, and carefully calibrated transport and accommodation systems.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Technology and the democratization of international tourism
+Transport innovation was an essential enabler of tourism’s spread and democratization and its ultimate globalization. Beginning in the mid-19th century, the steamship and the railway brought greater comfort and speed and cheaper travel, in part because fewer overnight and intermediate stops were needed. Above all else, these innovations allowed for reliable time-tabling, essential for those who were tied to the discipline of the calendar if not the clock. The gaps in accessibility to these transport systems were steadily closing in the later 19th century, while the empire of steam was becoming global. Railways promoted domestic as well as international tourism, including short visits to the coast, city, and countryside which might last less than a day but fell clearly into the “tourism” category. Rail travel also made grand tour destinations more widely accessible, reinforcing existing tourism flows while contributing to tensions and clashes between classes and cultures among the tourists. By the late 19th century, steam navigation and railways were opening tourist destinations from Lapland to New Zealand, and the latter opened the first dedicated national tourist office in 1901.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+After World War II, governments became interested in tourism as an invisible import and as a tool of diplomacy, but prior to this time international travel agencies took the lead in easing the complexities of tourist journeys. The most famous of these agencies was Britain’s Thomas Cook and Son organization, whose operations spread from Europe and the Middle East across the globe in the late 19th century. The role played by other firms (including the British tour organizers Frame’s and Henry Gaze and Sons) has been less visible to 21st-century observers, not least because these agencies did not preserve their records, but they were equally important. Shipping lines also promoted international tourism from the late 19th century onward. From the Norwegian fjords to the Caribbean, the pleasure cruise was already becoming a distinctive tourist experience before World War I, and transatlantic companies competed for middle-class tourism during the 1920s and ’30s. Between the World Wars, affluent Americans journeyed by air and sea to a variety of destinations in the Caribbean and Latin America.
