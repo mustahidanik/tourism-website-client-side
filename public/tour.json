@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Switzerland",
+        "img": "https://cdn.britannica.com/65/162465-050-9CDA9BC9/Alps-Switzerland.jpg",
+        "description": "Switzerland, officially the Swiss Confederation, is a landlocked country at the confluence of Western, Central and Southern Europe. It is a federal republic composed of 26 cantons, with federal authorities based in Bern. Switzerland is bordered by Italy to the south, France to the west, Germany to the north and Austria and Liechtenstein to the east.",
+        "price": "60000"
+    },
+    {
+        "id": 2,
+        "name": "Thailand",
+        "img": "https://lp-cms-production.imgix.net/2021-03/GettyRF_178111904.jpg?auto=format&fit=crop&sharp=10&vib=20&ixlib=react-8.6.4&w=850",
+        "description": "Thailand (Thai: ประเทศไทย), known formerly as Siam[b] and officially as the Kingdom of Thailand, is a country in Southeast Asia. It is located at the centre of the Indochinese Peninsula, spanning 513,120 square kilometres (198,120 sq mi), with a population of almost 70 million people.",
+        "price": "40000"
+    },
+    {
+        "id": 3,
+        "name": "Maldives",
+        "img": "https://images.indianexpress.com/2021/01/Pixabay_Maldives-resorts_1200.jpg",
+        "description": "Maldives (/ˈmɔːldiːvz/, US: /ˈmɔːldaɪvz/; Dhivehi: ދިވެހިރާއްޖެ, romanized: Dhivehi Raajje), officially the Republic of Maldives, is an archipelagic state in the Indian subcontinent of Asia, situated in the Indian Ocean. It lies southwest of Sri Lanka and India, about 750 kilometres (470 miles; 400 nautical miles) from the Asian continent's mainland.",
+        "price": "35000"
+    },
+    {
+        "id": 4,
+        "name": "Paris",
+        "img": "https://i.ytimg.com/vi/kxiyD0MQBas/maxresdefault.jpg",
+        "description": "Paris (French pronunciation: ​[paʁi] (About this soundlisten)) is the capital and most populous city of France, with an estimated population of 2,175,601 residents as of 2018, in an area of more than 105 square kilometres (41 square miles).[4] Since the 17th century, Paris has been one of Europe's major centres of finance, diplomacy, commerce, fashion, gastronomy, science, and arts.",
+        "price": "50000"
+    },
+    {
+        "id": 5,
+        "name": "Hanoi",
+        "img": "https://res.cloudinary.com/enchanting/f_auto,q_70,w_768,h_512,c_fill/et-web/2020/01/Tran-Quoc-pagoda-the-oldest-temple-in-Hanoi-Vietnam-1.jpg",
+        "description": "Hanoi traced its history back to the third century BCE, when a portion of the modern-day city served as the capital of the historic Vietnamese nation of Âu Lạc. Following the collapse of Âu Lạc, the city was part of Han China. In 1010, Vietnamese emperor Lý Thái Tổ established the capital of the imperial Vietnamese nation Đại Việt in modern-day central Hanoi, naming the city Thăng Long.",
+        "price": "30000"
+    },
+    {
+        "id": 6,
+        "name": "Kashmir",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/7/70/Neeulm_Valley_AJK_%28Arang_Kel%29.jpg",
+        "description": "Kashmir, region of the northwestern Indian subcontinent. It is bounded by the Uygur Autonomous Region of Xinjiang to the northeast and the Tibet Autonomous Region to the east (both parts of China), by the Indian states of Himachal Pradesh and Punjab to the south, by Pakistan to the west, and by Afghanistan to the northwest.",
+        "price": "20000"
+    }
+]

@@ -1,0 +1,14 @@
+.details img{
+    width: 75%;
+    
+}
+.shipping-form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.shipping-form input{
+    width: 20%;
+margin-bottom: 10px;
+}
