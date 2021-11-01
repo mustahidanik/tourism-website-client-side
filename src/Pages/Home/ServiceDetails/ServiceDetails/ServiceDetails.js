@@ -39,7 +39,7 @@ const ServiceDetails = () => {
                 <input defaultValue={user.email} {...register("email", { required: true })} />
                 {errors.email && <span className="error">This field is required</span>}
 
-                <input placeholder="Price" defaultValue={service.price} {...register("place")} />
+                <input placeholder="Price" defaultValue={service.price} {...register("price")} />
 
                 <h5> Confirm Order</h5>
                 <input type="submit" />
