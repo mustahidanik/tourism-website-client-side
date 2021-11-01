@@ -15,13 +15,15 @@ const ManageOrders = () => {
     }, [])
     return (
         <div>
-            <h1> All the Orders</h1>
-            {
-                orders.map(ora => <Show>
-                    ora ={ora}
-                </Show>)
-            }
+            <h1 style={{ color: 'red' }}> Orders History</h1>
+            <div className="row row-cols-md-3 row-cols-sm-2 row-cols-1 g-3  ">
+                {
+                    orders.map(ora => <Show>
+                        ora ={ora}
+                    </Show>)
+                }
 
+            </div>
         </div>
     );
 };

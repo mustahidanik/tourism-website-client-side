@@ -13,9 +13,9 @@ const MyOrders = () => {
     return (
         <div>
 
-            <h1>Order Details</h1>
-            <h3> {myOrder[0]?.name}</h3>
-            <h3> {myOrder[0]?.email}</h3>
+            <h1 style={{ color: 'red' }}>Details</h1>
+            <h3 style={{ color: 'green' }}> {myOrder[0]?.name}</h3>
+            <h3 style={{ color: 'green' }}> {myOrder[0]?.email}</h3>
 
 
         </div>
